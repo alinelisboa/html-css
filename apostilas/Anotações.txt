@@ -1,0 +1,77 @@
+HTML e CSS: Curso em Vídeo
+
+cap 1 - aula 1
+
+==> repositórios públicos: github.com/gustavoguanabara; gustavoguanabara.github.io
+
+cap 1 - aula 4
+
+==> história da internet: guerra fria > eua > proteger centros militares > darpa > arpanet > sds, dec, ibm > protocolo NCP (transmissão de dados) > 1972 >  protocolo TCP (transmissão melhor) > protocolo IP (identificação de máquinas) > milnet, nsfnet, internet
+
+==> cliente x servidor: o ponto a solicita uma imagem do ponto b, o ip identifica os pontos, quebra a imagem em vários pacotes e envia ao cliente.
+
+==> tim berners-lee: protocolo http://, linguagem html, www (rede de alcance mundial), navegador (mark andersen)
+
+cap 2 - aula 1
+
+==> representação de dados: digito binario (0 1) > 1 bit > 8 bits > 1 byte... > UTF-8(?) > onda quadrada/binária
+
+==> multiplos do byte: 2^10 = 1024 bytes - 1KB
+		                1024 KB - 1 MB
+		                1024 MB - 1 GB
+		                1024 GB - 1 TB
+==> byte = armazenamento; 500GB de memória
+==> bit = transmissão; internet de 1Gb de velocidade
+
+==> cliente x servidor: cliente > modem > internet > servidor
+
+==> modem: faz a modulação e desmodulação; transforma ondas quadradas do computador para ondas senoidais do telefone (provedor)
+
+==> servidor DNS: local que promove o ip de um domínio
+
+cap 2 - aula 2
+
+==> dominio: nome que identifica o site; único; pago anualmente; tlds
+==> hospedagem: local onde o site fica armazenado; pago mensalmente; espaço, memoria, recursos
+
+url: endereço de repositório
+
+www.github.com/gustavoguanabara
+
+github.com: domínio
+.com: tld (gtld = generico; .gov, .store)
+.br: (cctld, identifica 
+www: sub-domínio
+/gustavoguanabara: caminho
+
+gustavoguanabara.github.io
+
+dominio - github.io
+gtld - .io
+sub-domínio - gustavoguanabara
+
+cap 3 - aula 1
+
+==> html: linguagem focada em conteúdo > texto, imagem, video, tabela, listas
+==> css: foco em desing > cor, posição, texto em cima, sombras, tamanho
+==> javascript: interatividade > menus, pop-ups, animações, validações
+
+cap 3 - aula 2
+
+==> front-end: desenvolvedor do lado do cliente, cliente-side > o disgner idealiza o desenho e o front-end adapta ao site, foca no usuario, na interação > html, css, js
+==> back-end: desenvolvedor do lado do servidor, server-side > interação do site com o servidor > php, js, c#, python, ruby, java, acesso a dados
+==> full stack: front-end + back-end
+
+cap 6 - aula 2
+
+==> jpeg: alta compactação, imagens grandes
+==> png: transparencia
+
+cap 14 - aula 1
+==> emoções de cores
+==> psicologia das cores
+
+==> a harmonia visual de um site faz decidir o consumo em 90%
+==> empresas de tecnologia: azul, pq remete a competência, sabedoria,
+calma, frio
+
